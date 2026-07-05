@@ -1,0 +1,6 @@
+/vendor/
+composer.phar
+.phpunit.result.cache
+coverage.xml
+lizard-report.xml
+.idea/
